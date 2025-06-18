@@ -1,11 +1,11 @@
-print("multiplicación")
-numero1=int(input("Escribe el primer número: "))
-numero2=int(input("Escribe el segundo número: "))
-resultado=numero1 * numero2
-print("El resultado de la multiplicación es:", resultado)
+print ("multiplicación")
+numero1 = int(input("Escribe el primer número: "))
+numero2 = int(input("Escribe el segundo número: "))
+resultado = numero1 * numero2
+print ("El resultado de la multiplicación es:", resultado)
 
-print("división")
-nm1=int(input("Escribe el primer número:"))
-nm2=int(input("Escribe el segundo número:"))
-Res=nm1/nm2
-print("El resultado de la división es:",Res)
+print ("división")
+nm1 = int(input("Escribe el primer número:"))
+nm2 = int(input("Escribe el segundo número:"))
+Res = nm1/nm2
+print ("El resultado de la división es:",Res)
